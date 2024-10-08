@@ -8,7 +8,7 @@ public class Main {
         int roll1, roll2;
         int twoCounter = 0, fourCounter = 0, sixCounter = 0, sevenCounter = 0;
 
-        for (int i = 0; i < 20; i++ ){
+        for (int i = 0; i <= 100; i++ ){
             roll1 = dice.roll();
             roll2 = dice.roll();
 
